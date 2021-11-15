@@ -11,6 +11,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/Shrimp.gif
     title: All about the art of selling fish
     subtitle: Fresh. Better. Faster
     text: >-
