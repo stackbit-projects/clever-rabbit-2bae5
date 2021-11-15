@@ -28,7 +28,7 @@ sections:
           - pr-4
           - pl-4
         alignItems: center
-        justifyContent: flex-start
+        justifyContent: center
         flexDirection: row
       title:
         fontWeight: '700'
