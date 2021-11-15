@@ -27,7 +27,7 @@ sections:
           - pb-12
           - pr-4
           - pl-4
-        alignItems: flex-start
+        alignItems: center
         justifyContent: flex-end
         flexDirection: row
       title:
